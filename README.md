@@ -1,4 +1,5 @@
-## Hi there 👋
+## Arthur Chessé 👋
+B2 Informatique
 
 <!--
 **Crypt0nik/Crypt0nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
