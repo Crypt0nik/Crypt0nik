@@ -17,6 +17,7 @@
 ### `// now`
 
 - building **flag me daddy** — an automated htb ctf solver
+- launching **[trevor knows why](https://trevorknowswhy.com)** — my own project, launching soon
 - security apprentice & dpo @ **peppermint company europe**
 - chasing flags with [**ynov cyber crew**](https://ctftime.org/team/365016)
 
@@ -27,7 +28,7 @@
 ```
 languages    python · go · typescript · c++ · php · bash
 frontend     react · next.js · tailwind · flutter
-security     burp · wireshark · ghidra · metasploit · kali · elastic
+security     burp · wireshark · ghidra · metasploit · kali · elastic · defectdojo
 infra        docker · linux · azure · firebase · n8n
 ```
 
@@ -36,8 +37,10 @@ infra        docker · linux · azure · firebase · n8n
 ### `// selected work`
 
 [**flag me daddy**](https://github.com/Crypt0nik) &nbsp;·&nbsp; automated ctf-solving platform for hack the box, gpt-5.4 codex agents in docker  
+[**trevor knows why**](https://trevorknowswhy.com) &nbsp;·&nbsp; my own project, launching soon  
 [**tymos**](https://github.com/Crypt0nik) &nbsp;·&nbsp; gamified heritage discovery — collab with archives municipales d'antibes  
 [**geotrainer**](https://github.com/Crypt0nik) &nbsp;·&nbsp; geoguessr performance tracker for chrome & firefox  
+**vulnerability platform** &nbsp;·&nbsp; defectdojo as a central hub for findings, cve tracking & sbom scoping  
 **peppermint soc** &nbsp;·&nbsp; elastic siem → n8n → multi-source enrichment → ai analysis
 
 <br/>
